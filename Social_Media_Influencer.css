@@ -8,12 +8,12 @@
 }
 #header_list li 
 {
-	padding-left: 10px;
+	padding-left: 12px;
 }
 #header_buttons_div 
 {
 	padding: 15px;
-	padding-left: 150px;
+	padding-left: 220px;
 }
 #header_buttons
 {
@@ -30,4 +30,8 @@
 #Join_my_blog_to_get_in_touch!
 {
 	padding: 20px;
+}
+#set_padding_of_header
+{
+	padding-top: 20px;
 }
